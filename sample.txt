@@ -1,2 +1,4 @@
 Hello All
 How are you all
+poll scm trigger function
+trigger types
